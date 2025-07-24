@@ -14,7 +14,7 @@ from cryptography.fernet import Fernet
 import requests
 
 # ===== CONFIGURATION (Combined from all codes) =====
-BOT_TOKEN = "7429115282:AAH0c7UESTf1648pUr6_tawWq1hCYtVHLsw"
+BOT_TOKEN = "7429115282:AAHOc7UESTfl648pUr6_tavWqlhCYtVHLsw"
 ADMIN_ID = 8142148294
 CHANNEL_ID = "@testnetprof"
 SUPPORT_USERNAME = "@Maxamy1"
